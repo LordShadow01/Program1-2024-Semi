@@ -1,0 +1,6 @@
+C:\Users\destr\OneDrive\Escritorio\PROYECTO DE PROGRAMACION 1 CICLO 2\operador logico\operador logico\bin\Debug\operador logico.exe.config
+C:\Users\destr\OneDrive\Escritorio\PROYECTO DE PROGRAMACION 1 CICLO 2\operador logico\operador logico\bin\Debug\operador logico.exe
+C:\Users\destr\OneDrive\Escritorio\PROYECTO DE PROGRAMACION 1 CICLO 2\operador logico\operador logico\bin\Debug\operador logico.pdb
+C:\Users\destr\OneDrive\Escritorio\PROYECTO DE PROGRAMACION 1 CICLO 2\operador logico\operador logico\obj\Debug\operador logico.csproj.CoreCompileInputs.cache
+C:\Users\destr\OneDrive\Escritorio\PROYECTO DE PROGRAMACION 1 CICLO 2\operador logico\operador logico\obj\Debug\operador logico.exe
+C:\Users\destr\OneDrive\Escritorio\PROYECTO DE PROGRAMACION 1 CICLO 2\operador logico\operador logico\obj\Debug\operador logico.pdb
