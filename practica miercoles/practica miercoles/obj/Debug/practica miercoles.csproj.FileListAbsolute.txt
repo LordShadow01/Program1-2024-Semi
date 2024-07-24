@@ -1,0 +1,7 @@
+C:\Users\destr\OneDrive\Escritorio\PROYECTO DE PROGRAMACION 1 CICLO 2\practica miercoles\practica miercoles\bin\Debug\practica miercoles.exe.config
+C:\Users\destr\OneDrive\Escritorio\PROYECTO DE PROGRAMACION 1 CICLO 2\practica miercoles\practica miercoles\bin\Debug\practica miercoles.exe
+C:\Users\destr\OneDrive\Escritorio\PROYECTO DE PROGRAMACION 1 CICLO 2\practica miercoles\practica miercoles\bin\Debug\practica miercoles.pdb
+C:\Users\destr\OneDrive\Escritorio\PROYECTO DE PROGRAMACION 1 CICLO 2\practica miercoles\practica miercoles\obj\Debug\practica miercoles.csproj.AssemblyReference.cache
+C:\Users\destr\OneDrive\Escritorio\PROYECTO DE PROGRAMACION 1 CICLO 2\practica miercoles\practica miercoles\obj\Debug\practica miercoles.csproj.CoreCompileInputs.cache
+C:\Users\destr\OneDrive\Escritorio\PROYECTO DE PROGRAMACION 1 CICLO 2\practica miercoles\practica miercoles\obj\Debug\practica miercoles.exe
+C:\Users\destr\OneDrive\Escritorio\PROYECTO DE PROGRAMACION 1 CICLO 2\practica miercoles\practica miercoles\obj\Debug\practica miercoles.pdb
