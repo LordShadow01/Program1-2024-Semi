@@ -1,0 +1,7 @@
+C:\Users\destr\OneDrive\Escritorio\PROYECTO DE PROGRAMACION 1 CICLO 2\Obtener nota final program1\Obtener nota final program1\bin\Debug\Obtener nota final program1.exe.config
+C:\Users\destr\OneDrive\Escritorio\PROYECTO DE PROGRAMACION 1 CICLO 2\Obtener nota final program1\Obtener nota final program1\bin\Debug\Obtener nota final program1.exe
+C:\Users\destr\OneDrive\Escritorio\PROYECTO DE PROGRAMACION 1 CICLO 2\Obtener nota final program1\Obtener nota final program1\bin\Debug\Obtener nota final program1.pdb
+C:\Users\destr\OneDrive\Escritorio\PROYECTO DE PROGRAMACION 1 CICLO 2\Obtener nota final program1\Obtener nota final program1\obj\Debug\Obtener nota final program1.csproj.AssemblyReference.cache
+C:\Users\destr\OneDrive\Escritorio\PROYECTO DE PROGRAMACION 1 CICLO 2\Obtener nota final program1\Obtener nota final program1\obj\Debug\Obtener nota final program1.csproj.CoreCompileInputs.cache
+C:\Users\destr\OneDrive\Escritorio\PROYECTO DE PROGRAMACION 1 CICLO 2\Obtener nota final program1\Obtener nota final program1\obj\Debug\Obtener nota final program1.exe
+C:\Users\destr\OneDrive\Escritorio\PROYECTO DE PROGRAMACION 1 CICLO 2\Obtener nota final program1\Obtener nota final program1\obj\Debug\Obtener nota final program1.pdb
