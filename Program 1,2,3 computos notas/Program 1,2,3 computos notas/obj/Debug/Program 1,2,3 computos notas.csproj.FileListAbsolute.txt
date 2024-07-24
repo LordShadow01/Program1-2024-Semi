@@ -1,0 +1,7 @@
+C:\Users\destr\OneDrive\Escritorio\PROYECTO DE PROGRAMACION 1 CICLO 2\Program 1,2,3 computos notas\Program 1,2,3 computos notas\bin\Debug\Program 1,2,3 computos notas.exe.config
+C:\Users\destr\OneDrive\Escritorio\PROYECTO DE PROGRAMACION 1 CICLO 2\Program 1,2,3 computos notas\Program 1,2,3 computos notas\bin\Debug\Program 1,2,3 computos notas.exe
+C:\Users\destr\OneDrive\Escritorio\PROYECTO DE PROGRAMACION 1 CICLO 2\Program 1,2,3 computos notas\Program 1,2,3 computos notas\bin\Debug\Program 1,2,3 computos notas.pdb
+C:\Users\destr\OneDrive\Escritorio\PROYECTO DE PROGRAMACION 1 CICLO 2\Program 1,2,3 computos notas\Program 1,2,3 computos notas\obj\Debug\Program 1,2,3 computos notas.csproj.AssemblyReference.cache
+C:\Users\destr\OneDrive\Escritorio\PROYECTO DE PROGRAMACION 1 CICLO 2\Program 1,2,3 computos notas\Program 1,2,3 computos notas\obj\Debug\Program 1,2,3 computos notas.csproj.CoreCompileInputs.cache
+C:\Users\destr\OneDrive\Escritorio\PROYECTO DE PROGRAMACION 1 CICLO 2\Program 1,2,3 computos notas\Program 1,2,3 computos notas\obj\Debug\Program 1,2,3 computos notas.exe
+C:\Users\destr\OneDrive\Escritorio\PROYECTO DE PROGRAMACION 1 CICLO 2\Program 1,2,3 computos notas\Program 1,2,3 computos notas\obj\Debug\Program 1,2,3 computos notas.pdb
