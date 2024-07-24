@@ -1,0 +1,7 @@
+C:\Users\destr\OneDrive\Escritorio\PROYECTO DE PROGRAMACION 1 CICLO 2\suma decimales\suma decimales\bin\Debug\suma decimales.exe.config
+C:\Users\destr\OneDrive\Escritorio\PROYECTO DE PROGRAMACION 1 CICLO 2\suma decimales\suma decimales\bin\Debug\suma decimales.exe
+C:\Users\destr\OneDrive\Escritorio\PROYECTO DE PROGRAMACION 1 CICLO 2\suma decimales\suma decimales\bin\Debug\suma decimales.pdb
+C:\Users\destr\OneDrive\Escritorio\PROYECTO DE PROGRAMACION 1 CICLO 2\suma decimales\suma decimales\obj\Debug\suma decimales.csproj.AssemblyReference.cache
+C:\Users\destr\OneDrive\Escritorio\PROYECTO DE PROGRAMACION 1 CICLO 2\suma decimales\suma decimales\obj\Debug\suma decimales.csproj.CoreCompileInputs.cache
+C:\Users\destr\OneDrive\Escritorio\PROYECTO DE PROGRAMACION 1 CICLO 2\suma decimales\suma decimales\obj\Debug\suma decimales.exe
+C:\Users\destr\OneDrive\Escritorio\PROYECTO DE PROGRAMACION 1 CICLO 2\suma decimales\suma decimales\obj\Debug\suma decimales.pdb
